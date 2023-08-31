@@ -2,6 +2,7 @@ public class Constants
 {
     public static class SceneNames
     {
+        // constants
         public static string MenuScene = "MenuScene";
         public static string HelpScene = "HelpScene";
         public static string GameScene = "GameScene";
